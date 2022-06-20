@@ -1,0 +1,6 @@
+input:
+It's a sad movie, but very good.
+
+output:
+Klasa predvidena so site zborovi: 0
+Klasa predvidena so samo kluchni zborovi: 0

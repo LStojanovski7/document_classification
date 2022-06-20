@@ -1,0 +1,6 @@
+input:
+"""Just last week, preservationists at the Old Pejeta animal sanctuary in Kenya conceded that their one male and two female northern white rhinos will not reproduce naturally. The animals were flown from the Czech zoo to the Kenyan conservancy in December 2009 in hopes that the natural environment could be easier for them to breed there than in captivity."""
+
+output:
+science
+science

@@ -1,0 +1,6 @@
+input:
+Paula seemed to take a liking to everyone this week.
+
+output:
+0.09090909090909091
+formal
